@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Party
+comment1.params=
+comment1.target=Party()
+comment2.params=
+comment2.target=void\ allDisplayLanguage()
+comment3.params=
+comment3.target=void\ allDisplayFood()
+comment4.params=
+comment4.target=void\ allDisplayColour()
+comment5.params=
+comment5.target=void\ allDisplayBook()
+numComments=6

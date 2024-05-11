@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Australian
+comment1.params=theName\ theLanguage\ theFood\ theColour
+comment1.target=Australian(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=theBook
+comment2.target=Australian(java.lang.String)
+comment3.params=
+comment3.target=void\ displayLanguage()
+comment4.params=
+comment4.target=void\ displayFood()
+comment5.params=
+comment5.target=void\ displayColour()
+comment6.params=book
+comment6.target=void\ displayBook(java.lang.String)
+numComments=7
